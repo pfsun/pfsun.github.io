@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/pengfei.jpg?raw=true" alt="Photo"/> 
+  <img src="https://pfsun.github.io/files/pengfei.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I have graduated from ECE PhD program in Rutgers University. I have joined Shape Security as one senior research scientist. My current work focuses on bad bot detection and abnormal detection based on machine learning. During my PhD study, my research focus on software system security and reverse engineering. My advisor is Prof.Saman Zonouz. I am incredibly lucky to be one member of (4-n-6)Forensics Research Group and work with these awesome people!
