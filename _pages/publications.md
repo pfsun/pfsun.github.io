@@ -8,4 +8,4 @@ author_profile: true
 
 <b>[Towards Robust Semantic Reverse Engineering of Control System Binaries](http://pfsun.github.io/publications/Mismo_poster)</b> <br> 
 <b>Pengfei Sun</b>, Luis Garcia and Saman Zonouz.
-<i>The 28th USENIX Security Symposium <span style="color:red">(Poster Session)</span></i>. <b>Usenix Security 2019 </b>.
+<i>Poster Session of the 28th USENIX Security Symposium. <b>Usenix Security 2019 </b>.

@@ -1,10 +1,10 @@
 ---
-title: "Towards Robust Semantic Reverse Engineering of Control System Binariesg"
+title: "Towards Robust Semantic Reverse Engineering of Control System Binaries"
 collection: publications
 permalink: /publications/Mismo_poster
-venue: "Poster Session in the 28th USENIX Security Symposium (Usenix Security-19)"
+venue: "Poster Session of the 28th USENIX Security Symposium (Usenix Security-19)"
 date: 2019-8-15
-citation: '<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.'
+citation: '<b>Pengfei Sun</b>, Luis Garcia, Saman Zonouz. <i>Poster Session of the 28th USENIX Security Symposium</i>. <b>Usenix Security 2019</b>.'
 ---
 [[PDF]](https://www.researchgate.net/profile/Pengfei_Sun2/publication/334466560_Towards_Robust_Semantic_Reverse_Engineering_of_Control_System_Binaries/links/5d2c9ff9458515c11c33559b/Towards-Robust-Semantic-Reverse-Engineering-of-Control-System-Binaries.pdf)
 
