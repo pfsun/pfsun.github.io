@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Deep Learning
-
 <b>[Towards Robust Semantic Reverse Engineering of Control System Binaries](http://pfsun.github.io/publications/Mismo_poster)</b> <br> 
 <b>Pengfei Sun</b>, Luis Garcia and Saman Zonouz.
 <i>Poster Session of the 28th USENIX Security Symposium. <b>Usenix Security 2019 </b>.
