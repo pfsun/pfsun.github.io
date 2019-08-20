@@ -30,7 +30,7 @@ redirect_from:
 
 
 # Recent News
-* August 15, 2019. I present our poster in Usenix Security'19.
+* August 15, 2019. I present our work in Usenix Security'19.
 * August, 2019. Please check my [Ph.D. thesis](https://doi.org/doi:10.7282/t3-zy08-nn55)!
 * July 20, 2019. I am now serving as a PC member in [IEEE ISTAS 2019](https://attend.ieee.org/istas-2019/)!
 * July 12, 2019. Poster: Towards Robust Semantic Reverse Engineering of Control System Binaries has been accepted in Usenix Security'19.
@@ -39,5 +39,5 @@ redirect_from:
 * May 19, 2019. I attend Rutgers University Commencement! 
 * May 16, 2019. I receive Rutgers ECE Academic Achievement Award 2018-2019.
 * March 8, 2019. I successfully defense my thesis. Now Dr. Sun!
-* October 21, 2018. I am now serving as a student PC member in [IEEE S&P 2018](https://www.ieee-security.org/TC/SP2018/)!
+* October 21, 2017. I am now serving as a student PC member in [IEEE S&P 2018](https://www.ieee-security.org/TC/SP2018/)!
 
