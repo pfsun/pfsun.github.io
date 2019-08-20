@@ -21,6 +21,13 @@ redirect_from:
 
 
 # Recent News
+* August 15, 2019. I present our poster in Usenix Security'19.
 * July 20, 2019. I am now serving as a PC member in [IEEE ISTAS 2019](https://attend.ieee.org/istas-2019/)!
+* July 12, 2019. Poster: Towards Robust Semantic Reverse Engineering of Control System Binaries has been accepted in Usenix Security'19.
+* June 24, 2019. I present my DSN paper [Tell Me More Than Just Assembly! Reversing Cyber-physical Execution Semantics of Embedded IoT Controller Software Binaries](http://2019.dsn.org/cprogmain.html).
+* May 28, 2019. I join in Shape Security as the Senior Research Scientist and start my new journey.
+* May 19, 2019. I attend Rutgers University Commencement! 
+* May 16, 2019. I receive ECE Academic Achievement Award 2018-2019 at Rutger Univeristy.
+* March 8, 2019. I successfully defense my thesis. Now Dr. Sun!
 * October 21, 2018. I am now serving as a student PC member in IEEE S&P 2018!
 
