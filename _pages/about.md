@@ -21,6 +21,6 @@ redirect_from:
 
 
 # Recent News
-* July 20, 2019. I am now serving as a PC member in IEEE ISTAS 2019(https://attend.ieee.org/istas-2019/)!
+* July 20, 2019. I am now serving as a PC member in IEEE ISTAS 2019 ([Link](https://attend.ieee.org/istas-2019/))!
 * October 21, 2018. I am now serving as a student PC member in IEEE S&P 2018!
 
