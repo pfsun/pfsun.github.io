@@ -17,10 +17,10 @@ redirect_from:
 * My research focuses on the intersection of Security, Privacy, and Data Analytics. Most of my work aims to solve software and system security problems by program analysis and data-driven techniques. My current and on-going work includes:
   * Online Fraud Detection, Bot Detection and Abnormal Detection
   * Embedded Systems Security
-** Malware Analysis and Reverse Engineering
-** Cyber-Physical Systems Resilience
-** Systems Security and Privacy
-** Intrusion Detection and Response Capabilities
+  * Malware Analysis and Reverse Engineering
+  * Cyber-Physical Systems Resilience
+  * Systems Security and Privacy
+  * Intrusion Detection and Response Capabilities
 
 * <b>Looking for potential research cooperation!</b> Please don't hesitate to email me if you are interested in developing novel technologies for the security and privacy.
 
