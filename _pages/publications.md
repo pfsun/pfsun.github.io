@@ -3,6 +3,9 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[Hybrid Firmware Analysis for Known Mobile and IoT Security Vulnerabilities]()</b> <br> 
+<b>Pengfei Sun</b>, Luis Garcia, Gabriel Salles-Loustau and Saman Zonouz.
+<i>The 49th IEEE/IFIP International Conference on Dependable Systems and Networks. <b>DSN 2020 </b>.
 
 <b>[Towards Robust Semantic Reverse Engineering of Control System Binaries](https://www.researchgate.net/publication/334466560_Towards_Robust_Semantic_Reverse_Engineering_of_Control_System_Binaries)</b> <br> 
 <b>Pengfei Sun</b>, Luis Garcia and Saman Zonouz.
