@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://pfsun.github.io/files/sunpengfei.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* We are hiring Research Scientist!!
+* We are hiring Research Scientist(Security, Machine Learning, Bot/Fraud detection and so on)!! Drop me one email.
 
 * I am a Senior Research Scientist at [Shape Security](https://www.shapesecurity.com/) based in Mountainview, CA. I received my Ph.D. degree in [Electrical and Computer Engineering](https://www.ece.rutgers.edu/) from [Rutgers University](https://www.rutgers.edu/) in May, 2019, under the supervision of [Prof. Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz). Before that, I was pursuing my Master degree in [Peking University](http://english.pku.edu.cn/), Beijing, China, under the supervision of [Prof. Qingni Shen](http://www.ss.pku.edu.cn/index.php/shenqingni). During my master period, I was also a visiting student at [Singapore Management University](https://www.smu.edu.sg/), Singapore, worked with [Prof. Xuhua Ding](http://www.mysmu.edu/faculty/xhding/).
 
@@ -33,7 +33,7 @@ redirect_from:
 
 
 # Recent News
-* March 4, 2020. Our paper "Hybrid Firmware Analysis for Known Mobile and IoT Security Vulnerabilities" has been accpeted in DSN'20.
+* March 4, 2020. Our paper "Hybrid Firmware Analysis for Known Mobile and IoT Security Vulnerabilities" has been accpeted in [DSN'20](https://dsn2020.webs.upv.es/).
 * December 2, 2019. I am now serving as a PC member in [SPAI 2020 (conjunction with AsiaCCS 2020)](https://sites.google.com/view/spai2020)!
 * August 15, 2019. I present our work in Usenix Security'19.
 * August, 2019. Please check my [Ph.D. thesis](https://doi.org/doi:10.7282/t3-zy08-nn55)!
