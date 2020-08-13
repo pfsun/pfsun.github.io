@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<b>[Hybrid Firmware Analysis for Known Mobile and IoT Security Vulnerabilities]()</b> <br> 
+<b>[Hybrid Firmware Analysis for Known Mobile and IoT Security Vulnerabilities](https://ieeexplore.ieee.org/abstract/document/9153399)</b> <br> 
 <b>Pengfei Sun</b>, Luis Garcia, Gabriel Salles-Loustau and Saman Zonouz.
 <i>The 49th IEEE/IFIP International Conference on Dependable Systems and Networks. <b>DSN 2020 </b>.
 
